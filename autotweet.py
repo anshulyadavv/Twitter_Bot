@@ -60,7 +60,7 @@ while True:
             pass
         print('Information has been retrieved, sending tweet...')
         print("Tweet Sent")
-        print('next tweet will be sent after 2 hrs.')
+        print('next tweet will be sent after 1 minute.')
         sleep(60)
 
 
